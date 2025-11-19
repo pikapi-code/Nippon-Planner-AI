@@ -1,0 +1,5 @@
+{
+  "name": "NihonPlan AI",
+  "description": "A smart, AI-powered travel planner that generates personalized 2-week itineraries for Japan using Google Gemini with Search Grounding.",
+  "requestFramePermissions": []
+}
